@@ -1,0 +1,12 @@
+{
+  "name": "@dillan313/hide-name",
+  "version": "1.0.0",
+  "description": "function to hide name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dillan Justin Co",
+  "license": "ISC",
+  "type": "module"
+}
